@@ -15,4 +15,4 @@ our approach produces significantly better results if compared to conventional m
 
 The code provided implements the MTF method of initialization and covers all the steps of the workflow:
 
-![Workflow](https://your-copied-image-address)
+![Workflow](https://github.com/cbaldassari/gmm_init/blob/main/img/workflow.png)
