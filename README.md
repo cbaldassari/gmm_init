@@ -16,3 +16,9 @@ our approach produces significantly better results if compared to conventional m
 The [notebook](https://github.com/cbaldassari/gmm_init/blob/main/workflow.ipynb) provides the code that implements the method of initialization we propose in the paper and covers all the steps of the workflow:
 
 ![Workflow](https://github.com/cbaldassari/gmm_init/blob/main/img/workflow.png)
+
+## Getting the code
+You can download a copy of all the files in this repository by cloning the
+[git](https://github.com/cbaldassari/gmm_init) repository:
+    git clone https://github.com/cbaldassari/gmm_init
+or [download a zip archive](https://github.com/cbaldassari/gmm_init/archive/refs/heads/main.zip).
