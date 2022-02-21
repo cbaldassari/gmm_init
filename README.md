@@ -1,4 +1,4 @@
-# Unsupervised EM Initialization for Mixture Models: A Complex Network Driven Approach for Modeling Financial Time Series
+# Unsupervised Expectation-Maximization Initialization for Mixture Models: A Complex Network Driven Approach for Modeling Financial Time Series
 
 by
 Carlo Mari,
